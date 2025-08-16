@@ -1,2 +1,3 @@
-# nova-copilot
-NOVA — The Copilot that changed crypto forever.
+#  NOVA — The Copilot That Changed Crypto Forever
+
+**Pillars:** Innovation • Inclusivity • Simplicity • Intelligence
