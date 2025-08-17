@@ -41,6 +41,9 @@ User Intent → NOVA Agent Layer (AI copilots: Router, Optimizer, Guardian)
 → Zircuit Execution (fast, abstracted, finalized)  
 → User (safe, simple, successful result)  
 
+**Flow Diagram (visual)**  
+![NOVA Architecture](./assets/nova-architecture.png)
+
 ---
 
 ## 4. User Journey
