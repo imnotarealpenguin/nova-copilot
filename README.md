@@ -2,7 +2,7 @@
 
 > **NOVA is the Cognitive Finance Copilot built on Zircuit.**  
 It turns user intent into seamless financial action by combining AI-native intelligence, sequencer-level security, account abstraction, and zk scalability.  
-NOVA transforms DeFi from chaos into clarity — onboarding billions into Web3 with simplicity, safety, and intelligence.  
+NOVA turns fragmented transactions into a single human intent — guiding users from desire to outcome as effortlessly as Google Maps guides you to a destination.
 
 ---
 
@@ -25,18 +25,25 @@ Users don’t think in transactions — they speak in **intents**:
 
 NOVA translates intent → into **optimal, secure, Zircuit-powered execution**.  
 
-Why NOVA is only possible on **Zircuit** (direct prize tie):  
-- **Sequencer-Level Security**: no other chain can pre-check and simulate user intents before execution.  
-- **Account Abstraction**: only Zircuit allows multi-step flows compressed into one confirmation.  
-- **zk Scalability & AI-native design**: only Zircuit is fast, cheap, and intelligent enough to make this global.  
 
-On Ethereum, Solana, or Polygon this is impossible. On Zircuit, it is inevitable.  
+### Why NOVA is only possible on **Zircuit**  
+
+NOVA is not just deployed on Zircuit, it is born from it. Every pillar of NOVA depends on Zircuit’s DNA:  
+
+- **Sequencer-Level Security** → NOVA’s copilots can’t guide users without a safe sandbox. Only Zircuit lets intents be simulated and quarantined *before* they ever touch a user’s wallet.  
+- **Account Abstraction** → NOVA’s one-click, multi-step journeys are impossible on chains that still treat every action as a separate signature. Zircuit collapses the maze into a single, human confirmation.  
+- **Hybrid zk Architecture** → For NOVA to serve billions, intents must settle fast and cheap at global scale. Zircuit’s zk compression makes cognitive finance not just possible, but inevitable.  
+- **AI-native Design** → Zircuit isn’t a passive execution engine — it was architected to think alongside applications. NOVA’s intelligence plugs directly into this design.  
+
+Ethereum, Solana, Polygon — they execute blindly. On Zircuit, the chain itself *thinks first, acts second*.  
+That’s why NOVA could not exist anywhere else. On Zircuit, it was inevitable.    
 
 ---
 
 ## 3. Architecture
 **Flow Diagram (textual)**  
-User Intent → NOVA Agent Layer (AI copilots: Router, Optimizer, Guardian)  
+  User Intent 
+→ NOVA Agent Layer (AI copilots: Router, Optimizer, Protector)  
 → Sequencer Security Layer (fraud checks, simulation, zk validation)  
 → Zircuit Execution (fast, abstracted, finalized)  
 → User (safe, simple, successful result)  
@@ -67,13 +74,13 @@ NOVA reduces **15 minutes of stress → into 15 seconds of clarity**.
 
 ## 5. Pitch Story
 **Act I — The Jungle**  
-DeFi is a maze. Billions are excluded because it feels complex, unsafe, and untrustworthy.  
+DeFi promised freedom but delivered friction. A simple goal like “earn 5% safely” forces users into a labyrinth of bridges, farms, and signatures. Billions stay out not because they lack capital, but because crypto still speaks machine instead of human.  
 
 **Act II — The Supernova**  
-Then came Zircuit, the AI-powered chain. And from it: NOVA — the supernova that lit the way forward.  
+Zircuit changed the equation. With sequencer-level security, account abstraction, and zk scalability. And from this foundation, NOVA was born — the Copilot that translates human goals into flawless execution.
 
 **Act III — The Copilot of Finance**  
-Not a wallet, not a bot, but the chain itself thinking with you. NOVA is the Copilot that changed crypto forever.  
+NOVA isn’t another wallet or dApp. It’s the first system where the chain itself thinks with you: routing, optimizing, protecting, and delivering the outcome in a single confirmation. That’s why NOVA isn’t just a tool — it’s the supernova that lit the path to mass adoption. 
 
 ---
 
@@ -101,12 +108,14 @@ Not a wallet, not a bot, but the chain itself thinking with you. NOVA is the Cop
 
 NOVA is the Cognitive Finance Copilot on Zircuit that turns human intent into seamless financial action.
 
-I should win because while others write code, I’ve built the vision: NOVA, the Copilot that bridges billions of excluded users into crypto by transforming fragmented transactions into human intent.
+I should win because while others submit ideas, I’ve built a blueprint for the future: NOVA, the Copilot that will onboard billions by turning fragmented crypto transactions into human intent.
 
 ---
 
 ## 9. Team
-I am a solo hacker with a background that blends AI, crypto research, and business design. But more than that, I am a creator of visions, obsessed with shaping ideas that feel impossible until they become inevitable. Innovation, creativity, intelligence, and uniqueness are not features of my work, they are my identity. NOVA is the proof: a Copilot not just built for crypto, but destined to redefine it.
+I am Santiago — a solo hacker, but more importantly, a dreamer who builds with purpose. My background blends AI, crypto research, and innovative design, but my real strength lies in vision: taking what feels impossible and shaping it until it becomes inevitable.
+
+For me, innovation, creativity, and intelligence aren’t just skills, they are who I am.NOVA is more than a project; it’s the proof of that identity. A Copilot not just built for crypto, but destined to redefine it.
 
 ---
 
