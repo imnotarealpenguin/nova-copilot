@@ -83,6 +83,11 @@ Not a wallet, not a bot, but the chain itself thinking with you. NOVA is the Cop
 - **Simplicity** → DeFi in one click.  
 - **Intelligence** → Cognitive, AI-secured execution.  
 
+** Market Reality Check:**  
+- As of May 2025, over 27 million unique users interacted with DeFi—**4× year-over-year growth**—yet still a tiny fraction of global finance.  [oai_citation:3‡ScienceDirect](https://www.sciencedirect.com/science/article/pii/S0040162524000404?) 
+- There are 14.2 million active DeFi wallets mid-2025, with weekly transaction volumes over **$48 billion**—potential is huge, but adoption remains narrow.  [oai_citation:5‡CoinLaw](https://coinlaw.io/decentralized-finance-market-statistics/?)  
+- Shockingly, 90% of non-crypto owners say they *can’t use crypto because they lack understanding*, and 49% say they *don’t understand how it works*—proof that **friction, not access, holds people back**.  [oai_citation:6‡MarketWatch](https://www.marketwatch.com/story/heres-whats-preventing-the-majority-of-americans-from-getting-into-crypto-433c07d7?)
+
 ---
 
 ## 7. Future Expansion
