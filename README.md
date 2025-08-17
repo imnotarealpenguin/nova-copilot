@@ -1,4 +1,4 @@
-# 🌌 NOVA — The Copilot That Changed Crypto Forever
+# 🌌 NOVA — The AI Copilot that onboarded the world
 
 > **NOVA is the Cognitive Finance Copilot built on Zircuit.**  
 It turns user intent into seamless financial action by combining AI-native intelligence, sequencer-level security, account abstraction, and zk scalability.  
