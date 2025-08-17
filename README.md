@@ -115,7 +115,7 @@ I should win because while others submit ideas, I’ve built a blueprint for the
 ## 9. Team
 I am Santiago — a solo hacker, but more importantly, a dreamer who builds with purpose. My background blends AI, crypto research, and innovative design, but my real strength lies in vision: taking what feels impossible and shaping it until it becomes inevitable.
 
-For me, innovation, creativity, and intelligence aren’t just skills, they are who I am.NOVA is more than a project; it’s the proof of that identity. A Copilot not just built for crypto, but destined to redefine it.
+For me, innovation, creativity, and intelligence aren’t just skills, they are who I am. NOVA is more than a project; it’s the proof of that identity. A Copilot not just built for crypto, but destined to redefine it.
 
 ---
 
