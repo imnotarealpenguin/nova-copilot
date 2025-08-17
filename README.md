@@ -26,3 +26,17 @@
 SLS (pre-execution enforcement) + AA (delegated execution) + zk (cheap/fast composability).
 
 ## 🏗️ Architecture (high-level)
+User Intent
+↓
+NOVA Copilot (Planner • Estimator • Risk Filter • Explainer)
+↓
+Zircuit Sequencer (SLS enforcement • AA orchestration • zk settlement)
+↓
+Outcome Receipt (route, cost bound, audit trail)
+
+## 🧭 User Journey (Before vs After)
+**Before:** 7–12 steps, multiple UIs, risk guessing, unexpected costs.  
+**After (NOVA):** 1 intent → certified plan (cost bound, safety) → 1 approval → outcome receipt.
+
+## 👥 Team
+Vision-led strike team. **Santiago** — Founder & Architect (AI/crypto strategist & storyteller focused on Cognitive Finance).
